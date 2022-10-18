@@ -1,2 +1,3 @@
-Princejnr15 and AJJimmy Printf team project work.
-What a nice collaboration we got here.
+C printf project by
+- Mohammed Ibrahim
+- Aanuoluwapo Adejimi
